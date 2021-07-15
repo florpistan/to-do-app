@@ -2,4 +2,4 @@
 Little to do app created with vanilla javascript
 
 ## Demo
-Coming soon
+https://to-do-app-nu-topaz.vercel.app/
